@@ -2,7 +2,7 @@
   "name": "esportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DanielMauricio13.github.io/Porttfolio.github.io",
+  "homepage": "https://danielmauricio13.github.io/Porttfolio.github.io/",
  "scripts": {
   "dev": "next dev",
   "build": "next build",

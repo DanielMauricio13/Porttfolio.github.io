@@ -78,7 +78,7 @@ const aboutData = [
     info: [
       {
         title: "Computer Engineering - Iowa State University, Ames, IA",
-        stage: "2021 - present",
+        stage: "2022 - present",
       },
       {
         title: "CyberSecurity Engineering - Iowa State University, Ames, IA",

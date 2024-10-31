@@ -9,11 +9,11 @@
     "export": "next export",
     "start": "next start",
     "lint": "next lint",
-   
     "deploy": "next dev"
   },
   "dependencies": {
     "@next/font": "^13.4.4",
+    "@tsparticles/react": "^3.0.0",
     "framer-motion": "^10.12.16",
     "next": "13.4.3",
     "react": "18.2.0",

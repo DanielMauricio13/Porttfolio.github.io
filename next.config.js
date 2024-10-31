@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true, // Required for GitHub Pages
   },
-  output: 'export',    // Export static files for GitHub Pages
-  basePath: '/Porttfolio.github.io
+  output: 'export', // Enables static export for GitHub Pages
+  basePath: '/Porttfolio.github.io', // Base path should match your repo name
 };
 
 module.exports = nextConfig;

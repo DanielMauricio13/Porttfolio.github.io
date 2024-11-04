@@ -28,9 +28,9 @@ const Services = () => {
           animate="show"
           exit="hidden"
           className='mb-4 max-w-[400px] mx-auto lg:mx-0'>
-            I am currently looking in contributing in big projects, take advantage of all the learned skills and 
-            incorporate them in a big project. Thanks to the abilities acquired during the last few years I can morph 
-            into any role, and while using my self-learning adeptness I can easily adapt in new enviroments and resposibilities
+            I am currently looking to contribute to big projects, take advantage of all the learned skills and 
+ incorporate them into a big project. Thanks to the abilities acquired during the last few years, I can morph 
+ into any role, and while using my self-learning adeptness, I can quickly acclimate to new environments and responsibilities.
           </motion.p>
         </div>
         <motion.div
@@ -38,7 +38,7 @@ const Services = () => {
         initial="hidden"
         animate="show"
         exit="hidden"
-         className='w-full xl:max-w-[65%]'>
+        className='w-full xl:max-w-[65%]'>
           <ServiceSlider />
         </motion.div>
       </div>

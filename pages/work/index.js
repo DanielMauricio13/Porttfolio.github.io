@@ -28,9 +28,7 @@ const Work = () => {
           animate="show"
           exit="hidden"
           className='mb-4 max-w-[400px] mx-auto lg:mx-0'>
-            I am currently looking in contributing in big projects, take advantage of all the learned skills and 
-            incorporate them in a big project. Thanks to the abilities acquired during the last few years I can morph 
-            into any role, and while using my self-learning adeptness I can easily adapt in new enviroments and resposibilities
+            Here, you can find a variety of projects that show my capacity to learn new technologies. The purpose of this project was to put into practice different knowledge. You will be surprised how every project is written in a different language and uses different techniques, feel free to reach out if you have any questions about them. 
           </motion.p>
         </div>
         <motion.div

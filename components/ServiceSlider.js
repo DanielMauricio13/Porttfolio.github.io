@@ -12,6 +12,11 @@ import {
 // data
 const serviceData = [
   {
+    icon: <RxDesktop />,
+    title: 'Development',
+    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  },
+  {
     icon: <RxCrop />,
     title: 'Branding',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
@@ -21,11 +26,7 @@ const serviceData = [
     title: 'Design',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
   },
-  {
-    icon: <RxDesktop />,
-    title: 'Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-  },
+  
   {
     icon: <RxReader />,
     title: 'Copywriting',

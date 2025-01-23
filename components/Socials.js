@@ -11,12 +11,8 @@ const Socials = () => {
       <Link href={'https://linkedin.com/in/daniel-mauricio-vergara-pinilla-2378ab205'} className='hover:text-accent transition-all duration-300'>
         <RiLinkedinBoxLine/>
       </Link>
-      <Link href={''} className='hover:text-accent transition-all duration-300'>
-        <RiInstagramLine/>
-      </Link>
-      <Link href={''} className='hover:text-accent transition-all duration-300'>
-        <RiFacebookBoxLine/>
-      </Link>
+     
+      
       
     </div>
   )

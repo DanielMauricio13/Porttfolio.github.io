@@ -19,7 +19,7 @@ const Contact = () => {
           exit="hidden"
           className='h2 text-center mb-12'>
             We can  
-            <span> connect.</span>
+            <span > connect.</span>
           </motion.h2>
           <motion.form
           variants={fadeIn('up',0.4)}

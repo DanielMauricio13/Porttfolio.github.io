@@ -5,7 +5,7 @@ const workSlider = {
       images: [
         {
           title: 'GymApp',
-          path: '/Gu.1.jpeg',
+          path: '/AppGym.jpeg',
           githubLink: 'https://github.com/DanielMauricio13/GymIOS',
         },
         {

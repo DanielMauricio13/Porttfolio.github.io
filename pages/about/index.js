@@ -68,6 +68,10 @@ const aboutData = [
         stage: "2023 - present",
       },
       {
+        title: "Student Systems Specialist - Iowa State University",
+        stage: "2025 - present",
+      },
+      {
         title: "Other - Iowa State University",
         stage: "2021 - present",
       },

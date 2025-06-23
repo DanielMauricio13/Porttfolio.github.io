@@ -33,7 +33,7 @@ const workSlider = {
           githubLink: 'https://github.com/DanielMauricio13/Angular-Website',
         },
         {
-          title: 'title',
+          title: 'In development',
           path: '/thumb1.jpg',
         },
         {

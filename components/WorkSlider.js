@@ -6,7 +6,7 @@ const workSlider = {
         {
           title: 'GymApp',
           path: '/AppGym.jpeg',
-          githubLink: 'https://github.com/DanielMauricio13/GymIOS',
+          githubLink: 'https://github.com/DanielMauricio13/POWAI',
         },
         {
           title: 'RoombaProject',

@@ -39,7 +39,7 @@ const serviceData = [
   {
     icon: <RxRocket />,
     title: 'Deploy',
-    shortDescription: 'It is important you give your vision a chnace',
+    shortDescription: 'It is important you give your vision a chance',
     fullDescription: "With knowledge in deployment stages we can work together to make sure your vision makes it"
   },
 ];

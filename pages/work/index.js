@@ -28,7 +28,7 @@ const Work = () => {
           animate="show"
           exit="hidden"
           className='mb-4 max-w-[400px] mx-auto lg:mx-0'>
-            Here, you can find a variety of projects that show my capacity to learn new technologies. The purpose of these projects was to put into practice different knowledge acquired. You will be surprised how every project is written in a different language and uses different techniques, feel free to reach out if you have any questions about them.
+            Here, you can find a variety of projects that show my capacity to learn new technologies. The purpose of these projects was to put into practice different knowledge adquired. You will be surprised how every project is written in a different language and uses different techniques, feel free to reach out if you have any questions about them. 
           </motion.p>
         </div>
         <motion.div

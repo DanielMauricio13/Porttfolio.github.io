@@ -5,23 +5,23 @@ const workSlider = {
       images: [
         {
           title: 'GymApp',
-          path: '/AppGym.jpeg',
+          path: '/AppGymm.jpeg',
           githubLink: 'https://github.com/DanielMauricio13/GymIOS',
         },
         {
           title: 'RoombaProject',
-          path: '/roomba.1.jpeg',
+          path: '/288.jpeg',
           githubLink: 'https://github.com/DanielMauricio13/RoombaScanner',
         },
         {
           title: 'AndroidApp',
-          path: '/android.1.jpeg',
+          path: '/androidApp.jpeg',
           githubLink: 'https://github.com/DanielMauricio13/Full-Stack-Andorid',
         },
         {
-          title: 'PortfolioWebsite',
-          path: '/portfolioWeb.1.jpeg',
-          githubLink: 'https://github.com/DanielMauricio13/Porttfolio.github.io',
+          title: 'RumbleProject',
+          path: '/Rumble.jpeg',
+          githubLink: 'https://sddec25-16.sd.ece.iastate.edu/#',
         },
       ],
     },
@@ -29,12 +29,13 @@ const workSlider = {
       images: [
         {
           title: 'AngularWebsite',
-          path: '/store.1.jpeg',
+          path: '/store.jpeg',
           githubLink: 'https://github.com/DanielMauricio13/Angular-Website',
         },
         {
-          title: 'title',
-          path: '/thumb1.jpg',
+          title: 'PortfolioWebsite',
+          path: '/websiteProjectt.jpeg',
+          githubLink: 'https://github.com/DanielMauricio13/Porttfolio.github.io',
         },
         {
           title: 'title',

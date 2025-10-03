@@ -82,9 +82,11 @@ const projectSummaries = [
 
 const Projects = () => {
   return (
-    <div className="min-h-screen bg-primary/30 py-32">
+
+    <div className="min-h-screen bg-primary/30 py-32 overflow-auto">
       <Circles />
-      <div className="container mx-auto flex flex-col gap-16 pb-24">
+      <div className="container mx-auto flex flex-col gap-16">
+ main
         <motion.div
           variants={fadeIn("up", 0.2)}
           initial="hidden"

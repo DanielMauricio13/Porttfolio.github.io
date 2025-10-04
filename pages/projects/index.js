@@ -14,9 +14,9 @@ const projectSummaries = [
       "A cross-platform mobile application that provides customized workout plans, tracks daily activity, and integrates AI-driven coaching recommendations.",
     role: "Led full-stack development, implementing fitness workflows and integrating third-party health APIs.",
     skills:
-      "React Native, Expo, Firebase Authentication, Firestore, REST API integration, Tailwind CSS",
+      "SwiftUI, Swift, Vapor backend, RESTful APIs, Gemini API, ByCrypt",
     resources:
-      "Expo documentation, Firebase docs, OpenAI API references, UI mockups built in Figma",
+      "Expo documentation, Swift docs, OpenAI API references, Xcode, Gemini documentation",
   },
   {
     title: "Roomba Scanner",
@@ -26,9 +26,9 @@ const projectSummaries = [
       "A computer vision solution that records Roomba navigation data, generates heatmaps, and visualizes floor coverage in real time for robotics research.",
     role: "Designed data collection pipeline and built the visualization dashboard used by the research team.",
     skills:
-      "Python, OpenCV, NumPy, Flask, WebSockets, Data visualization",
+      "Python, OpenCV, Angular , WebSockets, Data visualization",
     resources:
-      "Roomba hardware SDK, OpenCV tutorials, Matplotlib documentation, Lab-provided floor plan datasets",
+      "Roomba hardware SDK, Lab-provided floor plan datasets",
   },
   {
     title: "Android Inventory App",
@@ -38,21 +38,20 @@ const projectSummaries = [
       "A native Android application for managing inventory, complete with offline caching, barcode scanning, and real-time synchronization to a cloud backend.",
     role: "Implemented Android UI, synchronized the mobile client with backend APIs, and configured CI/CD for releases.",
     skills:
-      "Kotlin, Android Studio, Room Database, Retrofit, Firebase Cloud Messaging, GitHub Actions",
+      "Android Studio, SpringBoot, PostgreSQL, GitHub Actions",
     resources:
-      "Android developer guides, Retrofit samples, Jetpack Room documentation, Internal API specifications",
+      "Android developer guides, Internal API specifications",
   },
   {
     title: "Rumble Esports Platform",
     image: "/Rumble.jpeg",
     link: "https://sddec25-16.sd.ece.iastate.edu/#",
     description:
-      "A responsive web portal for organizing collegiate esports scrimmages, handling registrations, match schedules, and live result updates.",
-    role: "Coordinated frontend architecture, built reusable UI components, and collaborated with backend team to define API contracts.",
+      "Rumbleis an autonomous trash-collecting robot built with a Raspberry Pi 4 and Coral AI accelerator. It uses a camera with YOLO-based object detection to identify trash items, plan paths, and navigate towards them. Equipped with sensors for obstacle avoidance and a Wall-E–style pickup mechanism, the robot collects trash and helps keep environments clean by combining AI vision, robotics, and automation",
     skills:
-      "React, TypeScript, Next.js, Tailwind CSS, Axios, Agile collaboration",
+      "Python programming, Computer Vision (YOLO, object detection), AI/ML model deployment, Real-time decision making, Raspberry Pi 4 integration, Coral AI USB Accelerator (Edge TPU), Camera module setup, Sensors (obstacle detection, path planning), Actuators and motor control, Mechanical design (Wall-E style pickup mechanism), IoT/Embedded systems development, Hardware-software interfacing, Linux environment setup, Path planning and navigation algorithms, Debugging hardware/software systems, Applied automation, Prototyping and iterative testing",
     resources:
-      "Figma design system, Jira project board, REST API documentation, Usability testing sessions",
+      "Raspberry Pi Docs, Google Coral AI Docs, YOLO Object Detection Docs, OpenCV Python Docs, PyCoral API, Random Nerd Tutorials, Raspberry Pi Motor Control, Hackster.io, Instructables, Google AI Blog, ResearchGate, Hackaday, numpy, opencv-python, pycoral, RPi.GPIO, gpiozero.",
   },
   {
     title: "Angular Commerce Site",
@@ -74,7 +73,7 @@ const projectSummaries = [
       "A dynamic personal portfolio site showcasing experience, testimonials, and interactive animations powered by modern frontend tooling.",
     role: "Sole developer managing design, development, deployment, and ongoing content updates.",
     skills:
-      "Next.js, Tailwind CSS, Framer Motion, Swiper.js, Vercel deployment",
+      "Next.js, React, Tailwind CSS, Framer Motion, Swiper.js, Vercel deployment",
     resources:
       "Tailwind UI inspiration, Framer Motion documentation, Vercel deployment guides, Peer design feedback",
   },
@@ -86,7 +85,7 @@ const Projects = () => {
     <div className="min-h-screen bg-primary/30 py-32 overflow-auto">
       <Circles />
       <div className="container mx-auto flex flex-col gap-16">
- main
+ 
         <motion.div
           variants={fadeIn("up", 0.2)}
           initial="hidden"
